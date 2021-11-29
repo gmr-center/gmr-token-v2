@@ -26,7 +26,7 @@ interface IMintingSchedule {
   function ableToMint(uint256 amount) external view returns(bool);
 }
 
-contract GMRTokenV2 is ERC20, ERC20Burnable, Ownable
+contract GAMER is ERC20, ERC20Burnable, Ownable
 {
 
     address private _mintingSchedule;
