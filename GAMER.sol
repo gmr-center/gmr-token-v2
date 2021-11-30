@@ -39,7 +39,7 @@ contract GAMER is ERC20, ERC20Burnable, Ownable
     )
         ERC20(name, symbol)
     {
-        _mint(msg.sender, 345000000 ether);
+        _mint(msg.sender, 335000000 ether);
     }
 
     // Sink
