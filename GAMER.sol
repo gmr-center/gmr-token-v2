@@ -23,7 +23,7 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 /////////////////////////////////////////////////////////////////////////
 /// @notice Interface method to get able to mint
 interface IMintingSchedule {
-  function ableToMint(uint256 amount) external view returns(bool);
+  function ableToMint(uint256 amount) external returns(bool);
 }
 
 contract GAMER is ERC20, ERC20Burnable, Ownable
