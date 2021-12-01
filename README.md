@@ -10,7 +10,7 @@ With GAMER v2, we are taking security to another level. Using a Multi-Signature 
 Multi-signature, or multisig, decentralises control and prevents a single point of failure. In essence, this means that three separate developers will control GAMER v2 (via our timelock contract), with each developer required to sign every call made on the contract. Multi-sig also protects investors from potential risks associated with any loss of control over the deployer wallet, as there are essentially three deployer wallets.
 
 ### Timelock
-The GAMER v2 token [contract](https://bscscan.com/address/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884) is no longer owned by the deployer wallet, and is now owned and managed through our timelock [contract](https://bscscan.com/address/0xc89d441f25DA499628D19A59b0c2A62481eCC4c8#code), which is in turn "owned" by our [multisig wallet](https://bscscan.com/address/0x938668B8231140b1D9fE4eda3eb1582060f6D29E#code).
+The GAMER v2 token [contract](https://bscscan.com/address/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884) is no longer owned by the deployer wallet, and is now owned and managed through our timelock [contract](https://bscscan.com/address/0xc89d441f25DA499628D19A59b0c2A62481eCC4c8#code), which is in turn "owned" by our [multisig wallet](https://bscscan.com/address/0x938668B8231140b1D9fE4eda3eb1582060f6D29E#code). You can find the ownership transfer transaction details below.
 
 #### Delayed executions
 The most important aspect of the timelock contract is that any functions called, on the token contract, are delayed by a minimum of **two days**. This gives investors ample time to sell off tokens and leave the project should the administrators of the multisig wallet try to make a call that will harm investors.
@@ -49,13 +49,15 @@ CMO: [Craig Washington](https://www.linkedin.com/in/craig-washington-928260211/)
 Head Of Community: [Brandon Hough](https://t.me/GMR_Community_Brandon)   
 Head Of Community: [Scott Ward](https://t.me/GMRScott)   
  
-## Contacts  
-[Twitter](https://twitter.com/GMR_Finance)       
-[Telegram](https://t.me/gmrfinance)   
-[Discord](https://discord.gg/gmrfinance)   
-[Twitch](https://www.twitch.tv/gmrfinance)  
-[YouTube](https://www.youtube.com/channel/UCk751dLf65swbS8LH7E1S3w)  
-[Instagram](https://www.instagram.com/gmrfinanceofficial)  
+## Connect  
+[Twitter](https://twitter.com/GMRCenter)
+[Discord](https://discord.gg/gmrcenter)
+[Telegram](https://t.me/gmrcenter)
+[Reddit](https://www.reddit.com/r/GMR_Finance)
+[Twitch](https://www.twitch.tv/GMR_Center)
+[YouTube](https://www.youtube.com/GMRCenter)
+[Facebook](https://www.facebook.com/gmrcenterofficial)
+[Instagram](https://www.instagram.com/gmrcenterofficial)
 
   
 ## About 
