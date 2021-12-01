@@ -30,7 +30,7 @@ As the GMR project evolves and we develop new utilities for the GAMER token, we 
 ## Important articles
 
 ### Contracts and addresses
-[Token contract](https://bscscan.com/address/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884)    
+[Token contract](https://bscscan.com/token/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884)    
 [Original deployer](https://bscscan.com/address/0x4716baa41Ba32AEc29E664371Bfd86D69d1c11e6)    
 [Multisig wallet](https://bscscan.com/address/0x938668B8231140b1D9fE4eda3eb1582060f6D29E#code)    
 [Timelock contract](https://bscscan.com/address/0xc89d441f25DA499628D19A59b0c2A62481eCC4c8#code)    
