@@ -6,8 +6,8 @@ Create. Empower. Game.
 ## Security
 With GAMER v2, we are taking security to another level. Using a Multi-Signature and timelock ownership structure, through [OpenZeppelin](https://openzeppelin.com/defender), our GAMER v2 is the most secure GMR token to date.
 
-### Mutli-signature
-Multi-signature, or multisig, decentralises control and prevents a single point of failure. In essence, this means that three separate developers will control GAMER v2 (via our timelock contract), with each developer required to sign every call made on the contract. Multi-sig also protects investors from potential risks associated with any loss of control over the deployer wallet, as there are essentially three deployer wallets.
+### Multi-signature
+Multi-signature, or multisig, decentralises control and prevents a single point of failure. In essence, this means that three separate developers will control GAMER v2 (via our timelock contract), with each developer required to sign every call made on the contract. Multisig also protects investors from potential risks associated with any loss of control over the deployer wallet, as there are essentially three deployer wallets.
 
 ### Timelock
 The GAMER v2 token [contract](https://bscscan.com/token/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884) is no longer owned by the deployer wallet, and is now owned and managed through our timelock [contract](https://bscscan.com/address/0xc89d441f25DA499628D19A59b0c2A62481eCC4c8#code), which is in turn "owned" by our [multisig wallet](https://bscscan.com/address/0x938668B8231140b1D9fE4eda3eb1582060f6D29E#code). You can find the ownership transfer transaction details below.
