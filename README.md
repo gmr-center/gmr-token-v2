@@ -20,9 +20,19 @@ Although we are confident that our minting schedule has the correct limits and r
 ### A note on minting
 As you will know, right from the start, we have promised that gamers will be able to participate in play to earn, staking, and even more innovative ways to game while being rewarded.
 
-To make this possible, we will introduce a secure, restricted, and ultimately community governed minting schedule. Any minting is restricted until May 4th 2022, our anniversary. It will be governed by a 5-year blockchain-based minting schedule, limiting and gradually reducing the number of tokens that can be minted in any given year. The hard cap baked into the minting schedule sets the ceiling for total mints in a given year.
+We will introduce a secure, restricted, and ultimately community governed minting schedule to make this possible. All minting is restricted until May 4th 2022, our anniversary. It will be governed by a 5-year blockchain-based minting schedule, limiting and gradually reducing the number of tokens that can be minted in any given year. The hard cap baked into the minting schedule sets the ceiling for total mints in a given year.
 
-Any decision to mint will be subjected to our developer/community governance committee and mechanisms, and of course, the restriction imposed through our multisig and timelock security measures. Meaning any successful execution to mint will have been proposed, voted on and ultimately delayed for a minimum of two days.
+Any decision to mint additional tokens will be subjected to our developer/community governance committee and mechanisms, and of course, the restrictions imposed through our multisig and timelock security measures. Meaning any successful execution to mint will have been proposed, voted on and ultimately delayed for a minimum of two days.
+
+The current minting schedule will allow for the following maximum yearly mints:
+
+From May 4th 2022 and throughout the rest of that year: 225m
+2023: 175m
+2024: 125m
+2025: 75m
+2026: 50m
+
+It is important to note that newly minted tokens are controlled by the timelock contract and not the developer wallets. Any movement of newly minted tokens is subjected to developer/community governance, multisig approval, and a two-day delay imposed by the timelock contract.
 
 ## Governance
 As the GMR project evolves and we develop new utilities for the GAMER token, we must have an accountable and community-driven decision-making process in place. With that in mind, Ryan Washington, the CEO, has pledged to introduce a community/developer governance committee before May 4th 2022. The GMR community will be consulted in the weeks and months leading up to May 4th 2022.
