@@ -26,11 +26,11 @@ Any decision to mint additional tokens will be subjected to our developer/commun
 
 The current minting schedule will allow for the following maximum yearly mints:
 
-From May 4th 2022 and throughout the rest of that year: 225m
-2023: 175m
-2024: 125m
-2025: 75m
-2026: 50m
+From May 4th 2022 and throughout the rest of that year: 225m    
+2023: 175m    
+2024: 125m    
+2025: 75m    
+2026: 50m    
 
 It is important to note that newly minted tokens are controlled by the timelock contract and not the developer wallets. Any movement of newly minted tokens is subjected to developer/community governance, multisig approval, and a two-day delay imposed by the timelock contract.
 
